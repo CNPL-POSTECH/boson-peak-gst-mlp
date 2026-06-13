@@ -134,7 +134,7 @@ Full molecular dynamics trajectories are not included because of their large fil
 
 The main calculations and analyses used the following software packages:
 
-* MACE 0.3.15
+* MACE 0.3.4
 * ASE
 * dynasor 2.0
 * LAMMPS
