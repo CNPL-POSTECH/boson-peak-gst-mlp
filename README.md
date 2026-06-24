@@ -3,7 +3,7 @@
 This repository contains the machine-learning potential, input files, representative scripts, and numerical data used in the article:
 
 **P. Park and S.-H. Jhi, “Study of boson peak in amorphous Ge-Sb-Te using machine learning potentials,” Physical Review B (2026).**
-DOI: `to be updated`
+DOI: https://doi.org/10.1103/2x95-1f6q
 
 The repository is organized into three main directories:
 
